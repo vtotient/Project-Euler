@@ -1,5 +1,3 @@
-// Linked List implementation to help solve problems
-
 typedef struct node{
   int val;
   struct node *next;
